@@ -1,0 +1,197 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForEach",
+            "request": "launch",
+            "mainClass": "ExemploForEach",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor_Arrays",
+            "request": "launch",
+            "mainClass": "ExemploFor_Arrays",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora_5",
+            "request": "launch",
+            "mainClass": "PlanoOperadora_5",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "SwitchCase",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalTernaria_4",
+            "request": "launch",
+            "mainClass": "CondicionalTernaria_4",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalEncadeada_3",
+            "request": "launch",
+            "mainClass": "CondicionalEncadeada_3",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "ConsicionalComposta_2",
+            "request": "launch",
+            "mainClass": "ConsicionalComposta_2",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalSimples_1",
+            "request": "launch",
+            "mainClass": "CondicionalSimples_1",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolarTernadio",
+            "request": "launch",
+            "mainClass": "ResultadoEscolarTernadio",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEsscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEsscolar",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedidda",
+            "request": "launch",
+            "mainClass": "SistemaMedidda",
+            "projectName": "dio-trilha-java-basico_e20a6556"
+        },
+        {
+            "type": "pwa-msedge",
+            "name": "Launch Microsoft Edge",
+            "request": "launch",
+            "runtimeArgs": [
+                "--remote-debugging-port=9222"
+            ],
+            "url": "c:\\Users\\marco\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.6\\out\\startpage\\index.html", // Provide your project's url to finish configuring
+            "presentation": {
+                "hidden": true
+            }
+        },
+        {
+            "type": "pwa-msedge",
+            "name": "Launch Microsoft Edge in headless mode",
+            "request": "launch",
+            "runtimeArgs": [
+                "--headless",
+                "--remote-debugging-port=9222"
+            ],
+            "url": "c:\\Users\\marco\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.6\\out\\startpage\\index.html", // Provide your project's url to finish configuring
+            "presentation": {
+                "hidden": true
+            }
+        },
+        {
+            "type": "vscode-edge-devtools.debug",
+            "name": "Open Edge DevTools",
+            "request": "attach",
+            "url": "c:\\Users\\marco\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.6\\out\\startpage\\index.html", // Provide your project's url to finish configuring
+            "presentation": {
+                "hidden": true
+            }
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Launch Edge Headless and attach DevTools",
+            "configurations": [
+                "Launch Microsoft Edge in headless mode",
+                "Open Edge DevTools"
+            ]
+        },
+        {
+            "name": "Launch Edge and attach DevTools",
+            "configurations": [
+                "Launch Microsoft Edge",
+                "Open Edge DevTools"
+            ]
+        }
+    ]
+}
